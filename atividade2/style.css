@@ -1,0 +1,14 @@
+#VerificadorMassa {
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 15vmax;
+    border-style: solid;
+    background-color: rgb(233, 233, 233);
+}
+
+
+body{
+    background-image:url("triangulos.png");
+    background-size: 500px;
+}
