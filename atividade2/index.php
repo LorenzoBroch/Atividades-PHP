@@ -26,9 +26,9 @@
             $areaTri = ($numeroBase*$numeroAltura)/2;
 
             if($areaTri >= 100) {
-            echo 'A área do seu triângulo é:', $areaTri, ', essa área ultrapassou o limite de 100.';
+            echo '<font color="red">A área do seu triângulo é: </font>', $areaTri, '<font color="red">, essa área ultrapassou o limite de 100.</font>';
             } else {
-            echo 'A área do seu triângulo é: ', $areaTri; 
+            echo '<font color="red"> A área do seu triângulo é: </font>', $areaTri; 
             }
 
         }
